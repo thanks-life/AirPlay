@@ -1,3 +1,8 @@
+功能：
+将图片投屏到苹果电视等设备上。
+
+
+
 #Class AirplayService
 
 ##About
